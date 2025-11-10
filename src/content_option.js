@@ -1,39 +1,30 @@
-const logotext = "JOHN";
+const logotext = "MANISH";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Manish Haldar",
+    description: "Im Manish a Full stack devloper, currently pursuing B.Tech from LNCT",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Im Manish Haldar",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I love playing video games",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Making the web a better place, one line of code at a time.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "A passionate developer who loves clean UI, smooth backend logic, and pixel-perfect execution.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Software Developer Intern at PRODIGY INFOTECH",
+        where: "Bhopal",
+        date: "2023",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+
 ];
 
 const skills = [{
@@ -41,7 +32,7 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Django",
         value: 85,
     },
     {
@@ -54,21 +45,21 @@ const skills = [{
     },
     {
         name: "Jquery",
-        value: 85,
+        value: 60,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Frontend Development",
+        description: "Modern, fast, and responsive interfaces using clean design and efficient code. I focus on smooth user experience, pixel-perfect layouts, and performance across all devices.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Backend & API Development",
+        description: "Secure and optimized backend systems using REST APIs, authentication, role management, and database integration. I ensure your application works smoothly behind the scenes.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Full-Stack Product Development",
+        description: "Complete end-to-end solutions: UI, backend, database, deployment, testing, and maintenance. One developer full system handling.",
     },
 ];
 
@@ -136,21 +127,21 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "haldarelite05@gmail.com",
+    YOUR_FONE: "8962155915",
+    description: "",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_mk3py5a",
+    YOUR_TEMPLATE_ID: "template_y417n6p",
+    YOUR_USER_ID: "V5XfesMWp-25vrZWd",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/EliteX05",
+    facebook: "https://www.facebook.com/quintuple.homicide/",
+    linkedin: "https://www.linkedin.com/in/manish-haldar/",
+    twitter: "https://x.com/Manish_ELITE",
 };
 export {
     meta,
